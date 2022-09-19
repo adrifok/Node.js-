@@ -1,0 +1,13 @@
+1)Initialize a Node.js project:
+npm init => initialize a project of node.js
+npm init -y => same accepting all by default
+-P --save-prod: package will appear in your dependencies. This is the default.
+-D --save-dev: package will appear in your dependencies. 
+-O --save-optional: package will appear in your optionalDependencies. 
+
+
+C:\users\usuarios> npm list - g depth = 0         => visualize all the global packages that I have in my computer
+C:\users\usuarios> npm i -g npm                   => install all the new versions of packages that I have in my computer
+
+2)Install Nodemon 
+npm install -g nodemon (global installation)

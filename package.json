@@ -1,0 +1,25 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Introduction Project to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon src/prueba_nodemon.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "javascript",
+    "adrifok"
+  ],
+  "author": "adriana ferrari DEV",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "morgan": "^1.10.0"
+    
+  }
+}
